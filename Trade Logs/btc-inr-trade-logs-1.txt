@@ -1,0 +1,126 @@
+📉🔻 Short position opened at 7430819.61. Target: 7429823.177558149, Stop Loss: 7431816.042441851, Balance: 9997.00
+✅📉 Short position closed at 7360100.0. PnL: 76.38, Balance: 10070.38
+📉🔻 Short position opened at 7429233.52. Target: 7428284.663082167, Stop Loss: 7430182.3769178325, Balance: 10067.38
+✅📉 Short position closed at 7430719.61. PnL: -1.60, Balance: 10062.77
+📉🔻 Short position opened at 7427412.57. Target: 7426518.33353637, Stop Loss: 7428306.806463631, Balance: 10059.77
+✅📉 Short position closed at 7376125.43. PnL: 55.39, Balance: 10112.16
+📉🔻 Short position opened at 7483049.56. Target: 7481330.83906552, Stop Loss: 7484768.280934479, Balance: 9997.00
+✅📉 Short position closed at 7535567.02. PnL: -56.19, Balance: 9937.81
+📉🔻 Short position opened at 7537120.42. Target: 7536980.4111254215, Stop Loss: 7537260.428874578, Balance: 9934.81
+✅📉 Short position closed at 7536151.25. PnL: 1.03, Balance: 9932.83
+📉🔻 Short position opened at 7534843.08. Target: 7534705.348583574, Stop Loss: 7534980.811416426, Balance: 9929.83
+✅📉 Short position closed at 7531968.03. PnL: 3.05, Balance: 9929.88
+📉🔻 Short position opened at 7532439.77. Target: 7532304.439893126, Stop Loss: 7532575.100106874, Balance: 9926.88
+✅📉 Short position closed at 7532275.45. PnL: 0.17, Balance: 9924.06
+📉🔻 Short position opened at 7533052.57. Target: 7532916.627056458, Stop Loss: 7533188.512943543, Balance: 9921.06
+✅📉 Short position closed at 7479725.1. PnL: 56.53, Balance: 9974.58
+📉🔻 Short position opened at 7533769.59. Target: 7533632.9311365, Stop Loss: 7533906.2488635, Balance: 9971.58
+✅📉 Short position closed at 7476136.62. PnL: 61.09, Balance: 10029.67
+📉🔻 Short position opened at 7530155.72. Target: 7530022.675157247, Stop Loss: 7530288.764842752, Balance: 10026.67
+✅📉 Short position closed at 7478875.46. PnL: 54.36, Balance: 10078.03
+📉🔻 Short position opened at 7541034.07. Target: 7539100.619722133, Stop Loss: 7542967.520277868, Balance: 10075.03
+✅📉 Short position closed at 7486931.35. PnL: 57.35, Balance: 10129.38
+📉🔻 Short position opened at 7541034.07. Target: 7539100.619722133, Stop Loss: 7542967.520277868, Balance: 10126.38
+✅📉 Short position closed at 7538260.32. PnL: 2.94, Balance: 10126.32
+📉🔻 Short position opened at 7484177.65. Target: 7482987.638246684, Stop Loss: 7485367.661753316, Balance: 10123.32
+✅📉 Short position closed at 7538260.32. PnL: -57.87, Balance: 10062.45
+📉🔻 Short position opened at 7484177.65. Target: 7482987.638246684, Stop Loss: 7485367.661753316, Balance: 10059.45
+✅📉 Short position closed at 7539468.57. PnL: -59.16, Balance: 9997.29
+📉🔻 Short position opened at 7532864.56. Target: 7531099.009609348, Stop Loss: 7534630.110390651, Balance: 9994.29
+✅📉 Short position closed at 7538971.17. PnL: -6.47, Balance: 9984.82
+📉🔻 Short position opened at 7531884.47. Target: 7530138.490445176, Stop Loss: 7533630.449554823, Balance: 9981.82
+✅📉 Short position closed at 7533722.86. PnL: -1.95, Balance: 9976.87
+📉🔻 Short position opened at 7479673.76. Target: 7478388.7090701265, Stop Loss: 7480958.810929873, Balance: 9973.87
+✅📉 Short position closed at 7533719.46. PnL: -57.83, Balance: 9913.04
+📉🔻 Short position opened at 7479673.76. Target: 7478388.7090701265, Stop Loss: 7480958.810929873, Balance: 9910.04
+✅📉 Short position closed at 7533719.46. PnL: -57.83, Balance: 9849.21
+📉🔻 Short position opened at 7536840.36. Target: 7534840.673200997, Stop Loss: 7538840.046799004, Balance: 9846.21
+✅📉 Short position closed at 7539339.23. PnL: -2.65, Balance: 9840.56
+📉🔻 Short position opened at 7487890.93. Target: 7486870.014399914, Stop Loss: 7488911.845600085, Balance: 9837.56
+✅📉 Short position closed at 7544317.47. PnL: -60.38, Balance: 9774.19
+📉🔻 Short position opened at 7490192.1. Target: 7489125.175015275, Stop Loss: 7491259.024984724, Balance: 9771.19
+✅📉 Short position closed at 7544317.47. PnL: -57.91, Balance: 9710.27
+📉🔻 Short position opened at 7500404.32. Target: 7498938.552201324, Stop Loss: 7501870.087798676, Balance: 9707.27
+✅📉 Short position closed at 7551493.69. PnL: -54.67, Balance: 9649.61
+📉🔻 Short position opened at 7494249.9. Target: 7492414.127079181, Stop Loss: 7496085.672920819, Balance: 9646.61
+✅📉 Short position closed at 7548307.87. PnL: -57.84, Balance: 9585.76
+📉🔻 Short position opened at 7545545.81. Target: 7545402.723243873, Stop Loss: 7545688.896756127, Balance: 9582.76
+✅📉 Short position closed at 7491507.76. PnL: 57.28, Balance: 9637.04
+📉🔻 Short position opened at 7545545.81. Target: 7545402.723243873, Stop Loss: 7545688.896756127, Balance: 9634.04
+✅📉 Short position closed at 7491507.76. PnL: 57.28, Balance: 9688.32
+📉🔻 Short position opened at 7545545.81. Target: 7545402.723243873, Stop Loss: 7545688.896756127, Balance: 9685.32
+✅📉 Short position closed at 7541201.68. PnL: 4.60, Balance: 9686.93
+📉🔻 Short position opened at 7541101.68. Target: 7540963.037504248, Stop Loss: 7541240.322495751, Balance: 9683.93
+✅📉 Short position closed at 7491507.76. PnL: 52.57, Balance: 9733.50
+📉🔻 Short position opened at 7538795.62. Target: 7538659.283670179, Stop Loss: 7538931.956329822, Balance: 9730.50
+✅📉 Short position closed at 7487378.78. PnL: 54.50, Balance: 9782.00
+📉🔻 Short position opened at 7540116.99. Target: 7539979.33224314, Stop Loss: 7540254.647756861, Balance: 9779.00
+✅📉 Short position closed at 7484346.18. PnL: 59.12, Balance: 9835.12
+📉🔻 Short position opened at 7538331.86. Target: 7538185.144461572, Stop Loss: 7538478.5755384285, Balance: 9832.12
+✅📉 Short position closed at 7536145.48. PnL: 2.32, Balance: 9831.43
+📉🔻 Short position opened at 7482175.58. Target: 7480364.159340756, Stop Loss: 7483987.000659244, Balance: 9828.43
+✅📉 Short position closed at 7536145.48. PnL: -57.75, Balance: 9767.69
+📉🔻 Short position opened at 7483919.61. Target: 7482073.139171172, Stop Loss: 7485766.080828829, Balance: 9764.69
+✅📉 Short position closed at 7536145.48. PnL: -55.88, Balance: 9705.81
+📉🔻 Short position opened at 7534978.1. Target: 7534836.5665011145, Stop Loss: 7535119.633498885, Balance: 9702.81
+✅📉 Short position closed at 7537940.26. PnL: -3.14, Balance: 9696.67
+📉🔻 Short position opened at 7531378.59. Target: 7531260.293969836, Stop Loss: 7531496.886030164, Balance: 9693.67
+✅📉 Short position closed at 7479846.45. PnL: 54.62, Balance: 9745.29
+📉🔻 Short position opened at 7478910.15. Target: 7477592.593653787, Stop Loss: 7480227.706346214, Balance: 9742.29
+✅📉 Short position closed at 7533900.37. PnL: -58.84, Balance: 9680.45
+📉🔻 Short position opened at 7532201.44. Target: 7532082.288680792, Stop Loss: 7532320.591319209, Balance: 9677.45
+✅📉 Short position closed at 7478480.36. PnL: 56.94, Balance: 9731.39
+📉🔻 Short position opened at 7531204.28. Target: 7531086.125523002, Stop Loss: 7531322.434476999, Balance: 9728.39
+✅📉 Short position closed at 7478480.36. PnL: 55.89, Balance: 9781.28
+📉🔻 Short position opened at 7535642.39. Target: 7535504.349799025, Stop Loss: 7535780.430200974, Balance: 9778.28
+✅📉 Short position closed at 7480935.49. PnL: 57.99, Balance: 9833.27
+📉🔻 Short position opened at 7535642.39. Target: 7535504.349835694, Stop Loss: 7535780.4301643055, Balance: 9830.27
+✅📉 Short position closed at 7480935.49. PnL: 57.99, Balance: 9885.26
+📉🔻 Short position opened at 7535013.66. Target: 7534876.248565694, Stop Loss: 7535151.071434306, Balance: 9882.26
+✅📉 Short position closed at 7480935.49. PnL: 57.32, Balance: 9936.58
+📉🔻 Short position opened at 7538493.62. Target: 7538352.728524209, Stop Loss: 7538634.511475791, Balance: 9933.58
+✅📉 Short position closed at 7484404.81. PnL: 57.33, Balance: 9987.92
+📉🔻 Short position opened at 7521327.36. Target: 7521193.731211546, Stop Loss: 7521460.988788455, Balance: 9984.92
+✅📉 Short position closed at 7467347.83. PnL: 57.22, Balance: 10039.14
+📉🔻 Short position opened at 7521327.36. Target: 7521193.731211546, Stop Loss: 7521460.988788455, Balance: 10036.14
+✅📉 Short position closed at 7467347.83. PnL: 57.22, Balance: 10090.35
+📉🔻 Short position opened at 7521327.36. Target: 7519455.359315866, Stop Loss: 7523199.360684135, Balance: 10087.35
+✅📉 Short position closed at 7519192.79. PnL: 2.26, Balance: 10086.62
+📉🔻 Short position opened at 7519092.79. Target: 7517265.46751535, Stop Loss: 7520920.11248465, Balance: 10083.62
+✅📉 Short position closed at 7465128.72. PnL: 57.20, Balance: 10137.82
+1:03pm
+📉🔻 Short position opened at 7519092.79. Target: 7517265.46751535, Stop Loss: 7520920.11248465, Balance: 10134.82
+✅📉 Short position closed at 7511566.13. PnL: 7.98, Balance: 10139.80
+📉🔻 Short position opened at 7460000.0. Target: 7459031.117213029, Stop Loss: 7460968.882786971, Balance: 10136.80
+✅📉 Short position closed at 7511566.13. PnL: -55.18, Balance: 10078.62
+📉🔻 Short position opened at 7460000.0. Target: 7459250.660852954, Stop Loss: 7460749.339147046, Balance: 10075.62
+✅📉 Short position closed at 7511566.13. PnL: -55.18, Balance: 10017.45
+📉🔻 Short position opened at 7502413.82. Target: 7501065.8459706465, Stop Loss: 7503761.794029354, Balance: 10014.45
+✅📉 Short position closed at 7451831.12. PnL: 54.12, Balance: 10065.57
+📉🔻 Short position opened at 7499883.72. Target: 7498602.930425604, Stop Loss: 7501164.509574396, Balance: 10062.57
+✅📉 Short position closed at 7451338.24. PnL: 51.94, Balance: 10111.51
+📉🔻 Short position opened at 7499883.72. Target: 7498602.871267739, Stop Loss: 7501164.568732261, Balance: 10108.51
+✅📉 Short position closed at 7514566.74. PnL: -15.71, Balance: 10089.80
+📉🔻 Short position opened at 7475354.95. Target: 7473629.466591898, Stop Loss: 7477080.433408102, Balance: 10086.80
+✅📉 Short position closed at 7519715.89. PnL: -47.47, Balance: 10036.34
+📉🔻 Short position opened at 7476266.45. Target: 7474522.754192586, Stop Loss: 7478010.145807414, Balance: 10033.34
+✅📉 Short position closed at 7519715.89. PnL: -46.49, Balance: 9983.84
+📉🔻 Short position opened at 7533218.87. Target: 7533074.732765184, Stop Loss: 7533363.007234816, Balance: 9980.84
+✅📉 Short position closed at 7476124.65. PnL: 60.52, Balance: 10038.36
+📉🔻 Short position opened at 7477017.88. Target: 7475882.76741388, Stop Loss: 7478152.99258612, Balance: 10035.36
+✅📉 Short position closed at 7523751.8. PnL: -50.01, Balance: 9982.36
+📉🔻 Short position opened at 7523751.8. Target: 7522060.575113174, Stop Loss: 7525443.024886826, Balance: 9979.36
+✅📉 Short position closed at 7472334.58. PnL: 54.50, Balance: 10030.86
+📉🔻 Short position opened at 7523751.8. Target: 7522060.575113174, Stop Loss: 7525443.024886826, Balance: 10027.86
+✅📉 Short position closed at 7473094.03. PnL: 53.70, Balance: 10078.56
+📉🔻 Short position opened at 7523751.8. Target: 7523580.256592863, Stop Loss: 7523923.343407136, Balance: 10075.56
+✅📉 Short position closed at 7473094.03. PnL: 53.70, Balance: 10126.26
+📉🔻 Short position opened at 7473094.03. Target: 7472973.141278669, Stop Loss: 7473214.918721331, Balance: 10123.26
+✅📉 Short position closed at 7523751.8. PnL: -54.20, Balance: 10066.05
+📉🔻 Short position opened at 7523751.8. Target: 7523580.258018845, Stop Loss: 7523923.341981155, Balance: 10063.05
+✅📉 Short position closed at 7478125.85. PnL: 48.36, Balance: 10108.42
+📉🔻 Short position opened at 7532391.86. Target: 7530534.07254198, Stop Loss: 7534249.647458021, Balance: 10105.42
+✅📉 Short position closed at 7528852.01. PnL: 3.75, Balance: 10106.17
+📉🔻 Short position opened at 7528562.35. Target: 7526781.288006521, Stop Loss: 7530343.411993478, Balance: 10103.17
+✅📉 Short position closed at 7474396.18. PnL: 57.42, Balance: 10157.58
+3:45 pm
